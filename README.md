@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/hermanops/ansible-role-rpi.svg?branch=master)](https://travis-ci.org/hermanops/ansible-role-rpi)
 Role Name
 =========
 
