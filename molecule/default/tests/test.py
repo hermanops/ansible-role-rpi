@@ -4,7 +4,7 @@ import pytest
 import testinfra.utils.ansible_runner
 
 testinfra_hosts = testinfra.utils.ansible_runner.AnsibleRunner(
-    os.environ['MOLECULE_INVENTORY_FILE']).get_hosts('ubuntu20')
+    os.environ['MOLECULE_INVENTORY_FILE']).get_hosts('ubuntu2004')
 
 
 @pytest.mark.parametrize('pkg', [
