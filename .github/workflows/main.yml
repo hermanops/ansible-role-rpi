@@ -14,7 +14,7 @@ jobs:
     strategy:
       matrix:
         distro:
-          - centos8
+          - ubuntu:latest
           - debian10
 
     steps:
