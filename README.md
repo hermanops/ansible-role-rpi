@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/hermanops/ansible-role-rpi.svg?branch=master)](https://travis-ci.org/hermanops/ansible-role-rpi)
+![CI](https://github.com/hermanops/ansible-role-rpi/workflows/CI/badge.svg)
 
 # Role Name
 
