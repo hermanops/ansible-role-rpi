@@ -18,7 +18,6 @@
       - ifstat
       - dstat
       - sysstat
-      
     state: present
 
 - name: install docker
